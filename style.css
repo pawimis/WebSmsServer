@@ -1,0 +1,49 @@
+
+body {
+	text-align: center;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+	font-size:100%;
+	color: #FFFFFF;
+	background-color: #10253F;
+	width: 600px;
+	}
+.header{
+	background-color: #10253F;
+}
+.error {
+  font-weight: bold;
+  margin-left: auto;
+   margin-right: auto;
+  color: #FF0000;
+}
+mobonimg {
+	margin-left: 0%;
+	margin-bottom: 20px;
+    
+}
+.captcha{
+display: inline;
+margin: 3px 10px 0 0;
+line-height: 2em;
+}
+.dist{
+	margin-bottom: 2px;
+}
+form label {
+  display: inline-block;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+}
+.box {
+	margin-left: auto;
+    margin-right: auto;
+	
+		}
+
+
+
+
